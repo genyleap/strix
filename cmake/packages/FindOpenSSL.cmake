@@ -3,7 +3,7 @@ set(OPENSSL_NAME "OpenSSL")
 set(OPENSSL_DESCRIPTION "TLS/SSL and crypto library.")
 
 # Pakcage option.
-option(USE_OPENSSL ${OPENSSL_DESCRIPTION} FALSE)
+option(USE_OPENSSL ${OPENSSL_DESCRIPTION} TRUE)
 if (USE_OPENSSL)
     add_definitions(-DUSE_OPENSSL)
 endif()
