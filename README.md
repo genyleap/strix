@@ -26,7 +26,7 @@ Strix is a lightweight, multi-threaded web server framework built in modern C++ 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/compez/strix.git
+git clone https://github.com/genyleap/strix.git
 cd strix
 ```
 
