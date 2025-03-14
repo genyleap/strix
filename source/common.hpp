@@ -1,6 +1,6 @@
 /*!
  *
- * Copyright (c) 2021 compez.eth
+ * Copyright (c) 2021 Kambiz Asadzadeh
  * Copyright (c) 2023 Genyleap
  */
 
